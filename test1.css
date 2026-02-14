@@ -820,7 +820,7 @@ and (max-device-width : 480px) {
     border-top-right-radius: 32px;
     border-bottom-left-radius: 32px;
     border-bottom-right-radius: 32px;
-	left: 35%;
+	left: 37%;
 	border: 0.25px solid rgb(78, 78, 78);
 	
 	
@@ -1185,6 +1185,7 @@ and (max-device-width : 480px) {
 }
 	
 }
+
 
 
 
